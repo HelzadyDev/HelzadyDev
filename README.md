@@ -1,6 +1,6 @@
 <img width="400%" src="./img/card.png" alt="card">
 
-My name`s Natanael but can call me "Helzady", i'm <!--AGE-->??<!--/AGE-->
+My name`s Natanael but can call me "Helzady", i'm Minha idade: <!--AGE-->??<!--/AGE-->
 idade old, a Nodejs Typescript developer, and i live in Brazil.
 
 # Ambitions
