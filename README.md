@@ -3,11 +3,11 @@
 Meu nome é Natanael, mas pode me chamar de "Helzady". Tenho 26 anos, sou desenvolvedor Node.js e Typescript e moro no Brasil.
 
 # Ambições
-- ⭐ Be the best at what I Brazil
-- 🔭 Learn more every day
-- 🔎 Always ready to help anyone
+- ⭐ Ser o melhor deve do Brasil
+- 🔭 Aprender mais a cada dia
+- 🔎 Sempre pronto para ajudar qualquer pessoa.
 
-# 🔨 Language anad tools
+# 🔨 Linguagem e ferramentas
  [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,js,html,css,react)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=discord,vscode,windows)](https://skillicons.dev)
