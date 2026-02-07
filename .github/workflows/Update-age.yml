@@ -1,0 +1,38 @@
+- name: Update age
+  env:
+    BIRTHDATE: "2007-02-07"  # TROQUE pela sua data (AAAA-MM-DD)
+  run: |
+    python - << 'PY'
+    import os, re, glob
+    from datetime import date, datetime
+
+    # acha README (md/markdown/me) em qualquer caixa
+    candidates = []
+    for pat in ["README.*", "readme.*"]:
+      candidates += glob.glob(pat)
+
+    if not candidates:
+      raise SystemExit("Nenhum README encontrado na raiz do repo.")
+
+    # preferir markdown
+    preferred = ["README.md", "readme.md", "README.MD", "readme.MD"]
+    path = next((p for p in preferred if p in candidates), candidates[0])
+
+    birth = datetime.strptime(os.environ["BIRTHDATE"], "%Y-%m-%d").date()
+    today = date.today()
+    age = today.year - birth.year - ((today.month, today.day) < (birth.month, birth.day))
+
+    with open(path, "r", encoding="utf-8") as f:
+      s = f.read()
+
+    if "<!--AGE-->" not in s or "<!--/AGE-->" not in s:
+      raise SystemExit(f"Marcadores <!--AGE--> e <!--/AGE--> não encontrados em {path}")
+
+    new = re.sub(r"<!--AGE-->.*?<!--/AGE-->", f"<!--AGE-->{age}<!--/AGE-->", s, flags=re.S)
+
+    if new != s:
+      with open(path, "w", encoding="utf-8") as f:
+        f.write(new)
+
+    print(f"README usado: {path} | idade calculada: {age}")
+    PY
