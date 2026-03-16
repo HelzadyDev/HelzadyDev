@@ -1,39 +1,32 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Helzady%20Dev&fontAlign=50&fontAlignY=40&color=0:0ea5e9,100:7c3aed&fontColor=ffffff&animation=fadeIn" alt="Banner Helzady Dev" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Helzady%20-%20Estudante%20de%20Programa%C3%A7%C3%A3o&fontAlign=50&fontAlignY=40&color=0:22c55e,100:0ea5e9&fontColor=ffffff" alt="Banner Helzady estudante de programação" />
 </div>
 
-## 👋 Olá, eu sou o Natanael (Helzady)
+## 👋 Oi, eu sou o Natanael (Helzady)
 
-Desenvolvedor **Node.js** e **TypeScript**, 26 anos, Brasil 🇧🇷.  
-Gosto de criar soluções úteis, escrever código limpo e evoluir um pouco todos os dias.
+Atualmente estou **estudando programação** e ainda sou iniciante.  
+No momento eu sei o básico de **JavaScript** e **TypeScript** e estou evoluindo com prática diária.
 
 ---
 
-## 🚀 Ambições
-- ⭐ Ser uma referência em desenvolvimento no Brasil
-- 🔭 Aprender continuamente
-- 🤝 Ajudar pessoas através da tecnologia
+## 📚 O que estou estudando
+- JavaScript (fundamentos)
+- TypeScript (tipagem básica)
+- Lógica de programação
+- Git e GitHub (fluxo básico)
 
-## 🛠️ Linguagens e ferramentas
+## 🎯 Objetivos
+- Melhorar minha base em lógica
+- Criar projetos simples para praticar
+- Evoluir um pouco todos os dias
 
-<div align="left">
+## 🛠️ Tecnologias que estou aprendendo
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,js,html,css,react)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=discord,vscode,windows,git,github)](https://skillicons.dev)
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HelzadyDev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelzadyDev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,git,github,vscode)](https://skillicons.dev)
 
 ---
 
 ## 📫 Contato
 - Discord: **helzady**
 
-> _"Evoluir todos os dias é melhor do que tentar ser perfeito de uma vez."_
+> _"Ainda no começo, mas seguindo firme nos estudos."_
