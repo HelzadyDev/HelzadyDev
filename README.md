@@ -1,13 +1,32 @@
-<img width="400%" src="./img/card.png" alt="card">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Helzady&fontSize=56&fontAlign=50&fontAlignY=38&desc=Estudante%20de%20Programa%C3%A7%C3%A3o&descAlign=50&descAlignY=62&descSize=22&color=0:22c55e,100:0ea5e9&fontColor=ffffff" alt="Banner Helzady estudante de programação" />
+</div>
 
-Meu nome é Natanael, mas pode me chamar de "Helzady". Tenho 26 anos, sou desenvolvedor Node.js e Typescript e moro no Brasil.
+## 👋 Oi, eu sou o Natanael (Helzady)
 
-# Ambições
-- ⭐ Ser o melhor deve do Brasil
-- 🔭 Aprender mais a cada dia
-- 🔎 Sempre pronto para ajudar qualquer pessoa.
+Atualmente estou **estudando programação** e ainda sou iniciante.  
+No momento eu sei o básico de **JavaScript** e **TypeScript** e estou evoluindo com prática diária.
 
-# 🔨 Linguagem e ferramentas
- [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,js,html,css,react)](https://skillicons.dev)
+---
 
-[![My Skills](https://skillicons.dev/icons?i=discord,vscode,windows)](https://skillicons.dev)
+## 📚 O que estou estudando
+- JavaScript (fundamentos)
+- TypeScript (tipagem básica)
+- Lógica de programação
+- Git e GitHub (fluxo básico)
+
+## 🎯 Objetivos
+- Melhorar minha base em lógica
+- Criar projetos simples para praticar
+- Evoluir um pouco todos os dias
+
+## 🛠️ Tecnologias que estou aprendendo
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,git,github,vscode)](https://skillicons.dev)
+
+---
+
+## 📫 Contato
+- Discord: **helzady**
+
+> _"Ainda no começo, mas seguindo firme nos estudos."_
