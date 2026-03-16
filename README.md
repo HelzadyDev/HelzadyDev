@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Helzady%20-%20Estudante%20de%20Programa%C3%A7%C3%A3o&fontAlign=50&fontAlignY=40&color=0:22c55e,100:0ea5e9&fontColor=ffffff" alt="Banner Helzady estudante de programação" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Helzady&fontSize=56&fontAlign=50&fontAlignY=38&desc=Estudante%20de%20Programa%C3%A7%C3%A3o&descAlign=50&descAlignY=62&descSize=22&color=0:22c55e,100:0ea5e9&fontColor=ffffff" alt="Banner Helzady estudante de programação" />
 </div>
 
 ## 👋 Oi, eu sou o Natanael (Helzady)
